@@ -45,6 +45,8 @@ number-recognition
 │
 ├── src                     # Source code and PyTorch model
 │
+├── train                   # Contains training scripts
+│
 ├── LICENSE                 # Open source license
 │
 └── README.md               # This file
