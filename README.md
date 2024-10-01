@@ -57,5 +57,5 @@ number-recognition
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-**Alexander Mateides** - alex.mateides@gmail.com - [LinkedIn](https://www.linkedin.com/in/alexander-mateides-138136285/)
+**Alexander Mateides** - alexander@mateides.com - [LinkedIn](https://www.linkedin.com/in/alexander-mateides-138136285/)
 
